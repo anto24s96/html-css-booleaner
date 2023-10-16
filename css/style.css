@@ -101,4 +101,32 @@ header{
     margin: 30px 3px;
 }
 
+#text-footer{
+    font-size: 20px;
+    color: gray;
+}
 
+.footer-image{
+    width: 250px;
+    height: 200px;
+    margin-left: 3px;
+    margin-top: 15px;
+
+}
+
+#image-bot-1{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+#image-bot-2{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.footer-lorem{
+    color: white;
+    font-size: 25px;
+    padding: 15px 20px 0 15px;
+}
