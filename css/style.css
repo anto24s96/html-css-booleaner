@@ -15,3 +15,34 @@ header{
     width: 200px;
     margin-top: 50px;
 }
+
+#title{
+    font-size: 45px;
+    margin-top: 10px;
+}
+
+.text-intestazione{
+    font-size: 20px;
+}
+
+#text-left{
+    color: gray;
+}
+
+#text-right{
+    color: rgb(0, 204, 255);
+}
+
+#text-datum{
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.container-foto{
+    margin-top: 20px;
+}
+
+#didascalia{
+    font-size: 15px;
+}
