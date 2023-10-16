@@ -58,3 +58,47 @@ header{
 #lorem-list{
     margin-left: 20px;
 }
+
+.row-left{
+    display: inline-block;
+    width: 30%;
+
+
+}
+
+.row-center{
+    display: inline-block;
+    width: 30%;
+
+
+}
+
+.row-right{
+    display: inline-block;
+    width: 38%;
+    
+
+}
+
+.row-1{
+    background-color: rgb(0, 170, 255);
+    color: white;
+}
+
+.row-2{
+    color: black;
+    background-color: #6ae4ff;
+    padding: 10px 0;
+}
+
+.row-3{
+    color: black;
+    background-color: #ffffff;
+    padding: 10px 0;
+}
+
+.table{
+    margin: 30px 3px;
+}
+
+
